@@ -11,7 +11,9 @@ I know several languages :
 
 I am currently learning **C**.
 ## My projects
-***LocalPost*** an app for publish some post. As everyone do when learning Backend developement.
+***LocalPost*** an app for publish some posts.
+
+[***Carcasonne.js***](https://github.com/M6a5x98/carcasonne.js) a JavaScript package to easily play Carcasonne (a tile game) in your browser.
 ## Additional Informations
 I work on *Windows*®.
 ### Projects I Love
