@@ -19,3 +19,7 @@ I work on *Windows*®.
 ### Projects I Love
 - [Windows® 11 in React](https://github.com/blueedgetechno/win11React) by [blueedgetechno](https://github.com/blueedgetechno)
 - [Ecole Directe private API documentation](https://github.com/EduWireApps/ecoledirecte-api-docs) created by a community of french developers.
+
+### Stats (not great)
+![You have not missed nothing](https://github-readme-stats.vercel.app/api/top-langs/?username=M6a5x98&theme=vue-dark)
+![You have not missed nothing](https://github-readme-stats.vercel.app/api?username=M6a5x98&theme=vue-dark)
