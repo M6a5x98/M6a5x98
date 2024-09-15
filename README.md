@@ -9,13 +9,13 @@ I know several languages :
 - **Python** : I don't know it as well than JavaScript 
 - **Powershell and Batch** (a little) : These are Windows Basics.
 
-I am currently learning **C**.
 ## My projects
 ***LocalPost*** an app for publish some posts.
 
 [***Carcasonne.js***](https://github.com/M6a5x98/carcasonne.js) a JavaScript package to easily play Carcasonne (a tile game) in your browser.
 ## Additional Informations
 I work on *Windows*®.
+I occasionaly work with [@dwich-code](https://github.com/Diwch-code)
 ### Projects I Love
 - [Windows® 11 in React](https://github.com/blueedgetechno/win11React) by [blueedgetechno](https://github.com/blueedgetechno)
 - [Ecole Directe private API documentation](https://github.com/EduWireApps/ecoledirecte-api-docs) created by a community of french developers.
