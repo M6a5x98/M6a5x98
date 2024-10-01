@@ -22,3 +22,7 @@ I occasionaly work with [@dwich-code](https://github.com/Diwch-code)
 
 ### Stats (not great)
 ![You have not missed nothing](https://github-readme-stats.vercel.app/api/top-langs/?username=M6a5x98&theme=vue-dark) ![You have not missed nothing](https://github-readme-stats.vercel.app/api?username=M6a5x98&theme=vue-dark)
+
+### Contact
+
+You can contact me by email at [m6a5x98@outlook.com](mailto:m6a5x98@outlook.com)
