@@ -20,7 +20,7 @@ I know several languages :
 
 [***Carcasonne.js***](https://github.com/M6a5x98/carcasonne.js) a JavaScript package to easily play Carcasonne (a tile game) in your browser.
 ## Additional Informations
-I work on *Windows*®.
+I work on *Windows*® <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg alt=express width="20" height="20"/>
 I occasionaly work with [@dwich-code](https://github.com/Diwch-code)
 ### Projects I Love
 - [Windows® 11 in React](https://github.com/blueedgetechno/win11React) by [blueedgetechno](https://github.com/blueedgetechno)
