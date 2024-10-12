@@ -4,10 +4,16 @@ I'm a french developer.
 I starded programming on **November or December** 2022 with simple terminal commands as every developer starts.
 ## Which languages know I ?
 I know several languages : 
-- **Javascript** : it is my favourite language, I know browser javascript and Node.js
-- **Html and Css** : JavaScript goes with them
-- **Python** : I don't know it as well than JavaScript 
+- **Javascript** : it is my favourite language, I know browser JavaScript <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/> and Node.js <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
+- **Html and Css** <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/> : JavaScript goes with them
+- **Python** <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>: I don't know it as well than JavaScript 
 - **Powershell and Batch** (a little) : These are Windows Basics.
+
+### My frameworks 
+- express.js <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
+- discord.js <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg alt=express width="30" height="30"/> 
+
 
 ## My projects
 ***LocalPost*** an app for publish some posts.
