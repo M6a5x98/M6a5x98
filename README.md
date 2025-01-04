@@ -1,7 +1,8 @@
 ## Who Am I ?
 I’m [**@M6a5x98**](https://github.com/m6a5x98).
 I'm a french developer.
-I starded programming on **November or December** 2022 with simple terminal commands as every developer starts.
+I starded programming on **November or December** 2022 with simple terminal commands as every developer starts. <br>
+I love forking random projects to improve them.
 ## Which languages know I ?
 I know several languages : 
 - **Javascript** : it is my favourite language, I know browser JavaScript <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/> and Node.js <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
