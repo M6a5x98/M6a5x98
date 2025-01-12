@@ -23,8 +23,7 @@ I know several languages :
 ## Additional Informations
 I work on *Windows*® <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg alt=express width="20" height="20"/>
 I occasionaly work with [@dwich-code](https://github.com/Diwch-code)
-### Projects I Love
-- [Windows® 11 in React](https://github.com/blueedgetechno/win11React) by [blueedgetechno](https://github.com/blueedgetechno)
+### Projects I love ❤️
 - [Ecole Directe Plus](https://github.com/Magic-Fishes/Ecole-Directe-Plus) created by a community of french students
 
 ### Stats (not great)
