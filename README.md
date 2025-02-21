@@ -31,7 +31,8 @@ I occasionaly work with [@dwich-code](https://github.com/Diwch-code)
 
 ### Stats (not great)
 ![m6a5x98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m6a5x98&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) <br>
-![m6a5x98's Stats](https://github-readme-stats.vercel.app/api?username=m6a5x98&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![m6a5x98's Stats](https://github-readme-stats.vercel.app/api?username=m6a5x98&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
+![m6a5x98' trophies](https://github-profile-trophy.vercel.app/?username=m6a5x98&theme=algolia&title=-Reviews,-Stars&row=2&column=4)
 
 ### Contact
 
