@@ -23,6 +23,8 @@ I know several languages :
 [***LocalPost***](https://github.com/M6a5x98/LocalPost) an app to publish some post.
 
 [***Carcasonne.js***](https://github.com/M6a5x98/carcasonne.js) a JavaScript package to easily play Carcasonne (a tile game) in your browser.
+
+My profile pins are basically useful projects I did and that are not meant to change (but you can still do a PR 😉)
 ## Additional Informations
 I work on *Windows*® <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg alt=express width="20" height="20"/>
 I occasionaly work with [@dwich-code](https://github.com/Diwch-code)
