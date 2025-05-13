@@ -13,6 +13,7 @@ I know several languages :
 ### Learning
 
 - **C** <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="c" width="30" height="30"/> : I use it for low level things (when I can't use Python or JavaScript)
+- **Minecraft Modding** with Fabric
 
 ### My frameworks 
 - express.js <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
@@ -21,8 +22,6 @@ I know several languages :
 
 ## My projects
 [***LocalPost***](https://github.com/M6a5x98/LocalPost) an app to publish some post.
-
-[***Carcasonne.js***](https://github.com/M6a5x98/carcasonne.js) a JavaScript package to easily play Carcasonne (a tile game) in your browser.
 
 My profile pins are basically useful projects I did and that are not meant to change (but you can still do a PR 😉)
 ## Additional Informations
