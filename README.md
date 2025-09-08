@@ -12,7 +12,7 @@ I know several languages :
 
 ### Learning
 
-- **C** <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="c" width="30" height="30"/> : I use it for low level things (when I can't use Python or JavaScript)
+<!-- **C** <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="c" width="30" height="30"/> : I use it for low level things (when I can't use Python or JavaScript) -->
 - **Minecraft Modding** with Fabric
 
 ### My frameworks 
@@ -21,12 +21,16 @@ I know several languages :
 
 
 ## My projects
-[***LocalPost***](https://github.com/M6a5x98/LocalPost) an app to publish some post.
+[***LocalPost***](https://github.com/M6a5x98/LocalPost) an app to publish posts (~✅)
+
+### In progress
+
+***Datapack Generator*** : Amod that would allow datapack makers to create JSON files in game and save them directly from the game
 
 My profile pins are basically useful projects I did and that are not meant to change (but you can still do a PR 😉)
 ## Additional Informations
 I work on *Windows*® <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg alt=express width="20" height="20"/>
-I occasionaly work with [@dwich-code](https://github.com/Diwch-code)
+<!--I occasionaly work with [@dwich-code](https://github.com/Diwch-code)-->
 ### Projects I love ❤️
 - [Ecole Directe Plus](https://github.com/Magic-Fishes/Ecole-Directe-Plus) created by a community of french students
 
