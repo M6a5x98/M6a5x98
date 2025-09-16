@@ -1,6 +1,6 @@
 ## Who Am I ?
 I’m [**@M6a5x98**](https://github.com/m6a5x98), a french developer. I am also called Poison6598 on Minecraft. <br>
-I starded programming on **November or December** 2022 with simple terminal commands as every developer starts. <br>
+I started programming on **November or December** 2022 with simple terminal commands as every developer starts. <br>
 I love forking random projects to improve them.
 ## Which languages do I know ?
 I know several languages : 
