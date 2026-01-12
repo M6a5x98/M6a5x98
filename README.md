@@ -8,7 +8,7 @@ I know several languages :
 - **Html and Css** <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/> : JavaScript goes with them
 - **Python** <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>: I don't know it as well than JavaScript 
-- **Powershell and Batch** (a little) : These are Windows Basics.
+- **Bash**: To make basic scripts
 
 ### Learning
 
@@ -23,13 +23,9 @@ I know several languages :
 ## My projects
 [***LocalPost***](https://github.com/M6a5x98/LocalPost) an app to publish posts (~✅)
 
-### In progress
-
-***Datapack Generator*** : Amod that would allow datapack makers to create JSON files in game and save them directly from the game
-
 My profile pins are basically useful projects I did and that are not meant to change (but you can still do a PR 😉)
 ## Additional Informations
-I work on *Windows*® <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg alt=express width="20" height="20"/>
+I work on **Debian** <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg alt=debian width="20" height="20"/> with the **Cinnamon** desktop environement <img src=https://projects.linuxmint.com/icons/projects/cinnamon-logo.svg alt=cinnamon width="20" height="20" />
 <!--I occasionaly work with [@dwich-code](https://github.com/Diwch-code)-->
 ### Projects I love ❤️
 - [Ecole Directe Plus](https://github.com/Magic-Fishes/Ecole-Directe-Plus) created by a community of french students
