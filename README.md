@@ -30,10 +30,10 @@ I work on **Debian** <img src=https://raw.githubusercontent.com/devicons/devicon
 ### Projects I love ❤️
 - [Ecole Directe Plus](https://github.com/Magic-Fishes/Ecole-Directe-Plus) created by a community of french students
 
-### Stats (not great)
+<!-- ### Stats (not great)
 ![m6a5x98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m6a5x98&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) <br>
 ![m6a5x98's Stats](https://github-readme-stats.vercel.app/api?username=m6a5x98&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
-![m6a5x98' trophies](https://github-profile-trophy.vercel.app/?username=m6a5x98&theme=algolia&title=-Reviews,-Stars&row=2&column=4)
+![m6a5x98' trophies](https://github-profile-trophy.vercel.app/?username=m6a5x98&theme=algolia&title=-Reviews,-Stars&row=2&column=4) -->
 
 ### Contact
 
